@@ -1,4 +1,4 @@
-from binarytree import Node 
+from ds import TreeNode 
 def isValidBST(self, root):
   """
   :type root: Optional[TreeNode]

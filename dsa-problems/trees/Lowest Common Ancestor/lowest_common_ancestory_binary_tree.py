@@ -1,8 +1,8 @@
-from binarytree import Node 
-def lowest_common_ancestor(root: Node, p: Node, q: Node) -> Node:
+from ds import TreeNode
+def lowest_common_ancestor(root: TreeNode, p: TreeNode, q: TreeNode) -> TreeNode:
     # Write your code here
     pass
-    def in_subtree(node: Node, p: Node):
+    def in_subtree(node: TreeNode, p: TreeNode):
         if node == p:
             return True
         
