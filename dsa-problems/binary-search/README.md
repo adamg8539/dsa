@@ -1,6 +1,6 @@
 # **Binary Search Problems**
 
-### The following table will some useful stats about the my solution. The information and stats are gathered from LeetCode.
+### The following table will some useful stats about the my solutions. The information and stats are gathered from LeetCode.
 
 | Problem | Time Complexity | Space Complexity | Solution beats % of LeetCoders |
 | --- | --- | --- | --- |
