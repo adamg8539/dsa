@@ -1,6 +1,7 @@
-# Geometric Sequence Triplets
+# Valid Palindrome
 
 **Problem Links:**
+https://leetcode.com/problems/valid-palindrome/
 
 **Initial thoughts:** 
 
@@ -8,4 +9,4 @@
 
 | Leetcode Link | Time Complexity | Space Complexity | Solution beats % of LeetCoders |
 | --- | --- | --- | --- |
-| []() | --- | --- | --- |
+| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | O(n) | O(1) | 85 |

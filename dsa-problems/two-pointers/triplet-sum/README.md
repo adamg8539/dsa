@@ -1,6 +1,7 @@
-# Geometric Sequence Triplets
+# 3 Sum
 
 **Problem Links:**
+https://leetcode.com/problems/3sum/
 
 **Initial thoughts:** 
 
@@ -8,4 +9,4 @@
 
 | Leetcode Link | Time Complexity | Space Complexity | Solution beats % of LeetCoders |
 | --- | --- | --- | --- |
-| []() | --- | --- | --- |
+| [3 Sum](https://leetcode.com/problems/3sum/) | --- | --- | 95 |

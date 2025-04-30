@@ -1,4 +1,5 @@
-# Geometric Sequence Triplets
+# Next Lexicographical Sequence
+https://bytebytego.com/exercises/coding-patterns/two-pointers/next-lexicographical-sequence
 
 **Problem Links:**
 
@@ -8,4 +9,4 @@
 
 | Leetcode Link | Time Complexity | Space Complexity | Solution beats % of LeetCoders |
 | --- | --- | --- | --- |
-| []() | --- | --- | --- |
+| [Next Lexicographical Sequence](https://bytebytego.com/exercises/coding-patterns/two-pointers/next-lexicographical-sequence) | --- | --- | --- |
