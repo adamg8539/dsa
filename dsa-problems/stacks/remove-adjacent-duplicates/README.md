@@ -1,11 +1,12 @@
-# Linked List Intersection
+# Repeated Removal of Adjacent Duplicates
 
 **Problem Links:**
-https://leetcode.com/problems/intersection-of-two-linked-lists/
+https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+
 **Initial thoughts:** 
 
 **Efficient Method:** 
 
 | Leetcode Link | Time Complexity | Space Complexity | Solution beats % of LeetCoders |
 | --- | --- | --- | --- |
-| [Linked List Intersection](https://leetcode.com/problems/intersection-of-two-linked-lists/) | O(n) | O(1) | 88 |
+| [Remove Adjacent Duplicates](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | O(n) | O(n) | 98 |
