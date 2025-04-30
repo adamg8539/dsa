@@ -9,4 +9,4 @@ https://leetcode.com/problems/two-sum/description/
 
 | Leetcode Link | Time Complexity | Space Complexity | Solution beats % of LeetCoders |
 | --- | --- | --- | --- |
-| [Two Sum II](https://leetcode.com/problems/two-sum/description/) | O(n) | O(n) | 100 |
+| [Pair Sum](https://leetcode.com/problems/two-sum/description/) | O(n) | O(n) | 100 |
