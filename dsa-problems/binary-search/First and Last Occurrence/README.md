@@ -2,7 +2,7 @@
 
 **Problem Links:**
 https://bytebytego.com/exercises/coding-patterns/binary-search/find-the-insertion-index
-https://leetcode.com/problems/search-insert-position/description/
+https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
 
 **Initial thoughts:** Brute force way to solve this problem would be to iterate through each element and store the first index in which the target appears and the last index in which the target appears. This would be O(n) time complexity.
 
@@ -10,4 +10,4 @@ https://leetcode.com/problems/search-insert-position/description/
 
 | Leetcode Link | Time Complexity | Space Complexity | Solution beats % of LeetCoders |
 | --- | --- | --- | --- |
-| [Two Sum II](https://leetcode.com/problems/find-peak-element/description/) | O(log(n)) | O(1) | 100 |
+| [First and Last Occurrence](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | O(log(n)) | O(1) | 100 |

@@ -11,4 +11,4 @@ https://leetcode.com/problems/find-peak-element/description/
 
 | Leetcode Link | Time Complexity | Space Complexity | Solution beats % of LeetCoders |
 | --- | --- | --- | --- |
-| [Two Sum II](https://leetcode.com/problems/find-peak-element/description/) | O(log(n)) | O(1) | 100 |
+| [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) | O(log(n)) | O(1) | 100 |

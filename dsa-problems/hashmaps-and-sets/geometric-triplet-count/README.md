@@ -1,4 +1,4 @@
-# Geometric Triplet
+# Geometric Sequence Triplets
 
 **Problem Links:**
 https://bytebytego.com/exercises/coding-patterns/hash-maps-and-sets/geometric-sequence-triplets
@@ -9,4 +9,4 @@ https://bytebytego.com/exercises/coding-patterns/hash-maps-and-sets/geometric-se
 
 | Leetcode Link | Time Complexity | Space Complexity | Solution beats % of LeetCoders |
 | --- | --- | --- | --- |
-| [Two Sum II](https://bytebytego.com/exercises/coding-patterns/hash-maps-and-sets/geometric-sequence-triplets) | --- | --- | --- |
+| [Geometric Sequence Triplets](https://bytebytego.com/exercises/coding-patterns/hash-maps-and-sets/geometric-sequence-triplets) | --- | --- | --- |
