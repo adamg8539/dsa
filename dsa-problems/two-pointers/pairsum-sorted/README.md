@@ -14,4 +14,4 @@ https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
 
 | Leetcode Link | Time Complexity | Space Complexity | Solution beats % of LeetCoders |
 | --- | --- | --- | --- |
-| [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | --- | --- | --- |
+| [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | O(n) | O(1) | 75 |
